@@ -1,4 +1,4 @@
-﻿# Online Quiz - Laravel 8
+﻿# Online Test Platformu - Laravel 11
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -7,8 +7,6 @@
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-[Click here](ReadmeFiles/EN_README.md) for English README.
 
 Bu projede Laravel 11 ile online bir test projesi kurulmuştur. İki adet kullanıcı tipi vardır:
 - Öğretmen: Bu kullanıcı testler oluşturabilir, testlere sorular ekleyebilir.
