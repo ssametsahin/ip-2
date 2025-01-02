@@ -67,6 +67,15 @@ MySQL bir ilişkisel veri tabanı olarak, 1995 yılında kullanıma sürülen en
 Daha fazla bilgi için, [tıklayınız](https://www.mysql.com/)
 
 ## Proje Görselleri
+![görsel1](https://github.com/user-attachments/assets/de8768da-029b-408a-80b2-1d1b8054c2c4)
+![görsel6](https://github.com/user-attachments/assets/37ea40c8-b36e-44e8-bffa-b9d5778aeb45)
+![görsel5](https://github.com/user-attachments/assets/9730a6ea-15fe-4857-bc57-635b181d7caf)
+![görsel9](https://github.com/user-attachments/assets/3d4a6506-87fd-4341-aec6-72c2ba166d1e)
+![görsel4](https://github.com/user-attachments/assets/9cbb08e6-9345-4258-bd32-8051cd2f25a2)
+![görsel8](https://github.com/user-attachments/assets/1f0055bd-dd88-4517-9a7e-cc602a19abb3)
+![görsel3](https://github.com/user-attachments/assets/cb5e15ce-bb43-416c-b5ef-2bd7fe6184c9)
+![görsel7](https://github.com/user-attachments/assets/7cf9c754-534f-4e5e-9e4a-42a274721d22)
+![görsel2](https://github.com/user-attachments/assets/1763251c-801a-4e00-92f2-b2ff99ff6282)
 
 ## Yazar
 `Samet Şahin`
