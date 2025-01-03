@@ -29,7 +29,7 @@ Proje dizinini açınız ve gerekli Node modüllerini kurmak için aşağıdaki 
 Composer paketleri kurmak ve güncellemek için aşağıdaki kodları komut satırına sırayla giriniz:
 `composer install`
 `composer update`
-Veri tabanı oluşturma işlemi için öncelikle proje dizininde bulunan `.env` dosyasını düzenlemek üzere açınız ve `DB_PASSWORD` değişkenine MySQL şifrenizi atayın.
+Veri tabanı oluşturma işlemi için öncelikle proje dizininde bulunan `.env` dosyasını düzenlemek üzere açınız ve `DB_PASSWORD` değişkenine MySQL şifrenizi atayın ve SESSION_DRIVER değişkenini file olarak değiştirin.
 - Github profilimde bulunan `db-2` deposundaki `schema.sql` dosyasını oluşturduğunuz veri tabanında içeri aktarabilirsiniz.
 `git clone https://github.com/ssametsahin/db-2.git`
 veya
