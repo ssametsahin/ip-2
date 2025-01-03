@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->foreignId('test_id')->constrained('tests')->onDelete('cascade');
             $table->timestamp('start_time');
-            $table->timestamp('end_time');
+            $table->timestamp('end_time')->nullable();
             $table->timestamps();
         });
 
